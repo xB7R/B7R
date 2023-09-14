@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm B7R</h1>
 <h3 align="center">A Cyber Security student from Bahrain</h3>
-<img align="right" alt="Cyber Security" width"400" src="https://i.kinja-img.com/gawker-media/image/upload/t_original/pwl9mwg0qu5vdagwstde.gif](https://media1.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif)"
+<img align="right" alt="Cyber Security" width"400" src="[https://i.kinja-img.com/gawker-media/image/upload/t_original/pwl9mwg0qu5vdagwstde.gif](https://media1.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif)](https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif)"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xb7r&label=Profile%20views&color=0e75b6&style=flat" alt="xb7r" /> </p>
 
