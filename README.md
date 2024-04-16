@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xb7r" alt="xb7r" /></a> </p>
 
-- 🔭 I’m currently working on **upgrading myself in Cyber Security Field**
+\ CyberSecurity Student
 
-- 🌱 I’m currently learning **Ethical Hacking**
+\ Focusing on **Ethical Hacking**
 
-- 📫 How to reach me **instagram.com/phzb**
-
-- ⚡ Fun fact **I like drinking Karak**
+\ instagram **instagram.com/phzb**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
