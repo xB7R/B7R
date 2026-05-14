@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=0A66C2&height=120&section=header&text=Yusuf&fontSize=50&fontColor=0A66C2&animation=fadeIn&fontAlignY=45"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Yusuf;ICT+Cybersecurity+Student"/>
 
 </div>
 
