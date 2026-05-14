@@ -20,7 +20,17 @@ I have worked on projects involving enterprise network security, healthcare GRC 
 
 ## Tools I Work With
 
-`EVE-NG` · `Cisco Packet Tracer` · `Eramba` · `Wireshark` · `Python` · `Linux` · `Microsoft Azure` · `VMware` · `Oracle VirtualBox`
+<p align="center">
+  <img src="https://img.shields.io/badge/EVE--NG-Network%20Emulation-FF6B00?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-Network%20Simulation-1BA0D7?style=flat-square&logo=cisco&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Eramba-GRC%20Platform-6B4CFF?style=flat-square&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Python-Scripting%20%26%20Analysis-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Linux-System%20Administration-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-Cloud%20Security-0078D4?style=flat-square&logo=microsoftazure&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=flat-square&logo=vmware&logoColor=white&labelColor=0d1117"/>
+  <img src="https://img.shields.io/badge/Oracle%20VirtualBox-Virtualization-183A61?style=flat-square&logo=virtualbox&logoColor=white&labelColor=0d1117"/>
+</p>
 
 ---
 
